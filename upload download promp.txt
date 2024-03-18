@@ -1,0 +1,11 @@
+o) multiple upload files (add upload file limitation size)
+o) multiple download data file as files
+o) show all file name in database
+o) update file name and data file in view
+o) delete files but add confirmation (messagebox.askyesno())
+
+NOTE: 
+- filedialog.asksaveasfilename(defaultextension="", filetypes=[("All files", "*.*")], initialfile=filename)
+
+UPDATE: 
+- file path implementation not done!!!
